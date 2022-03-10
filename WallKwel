@@ -1,4 +1,4 @@
-import amino
+import aminofix
 from pyfiglet import figlet_format
 from colorama import init, Fore, Style
 init()
